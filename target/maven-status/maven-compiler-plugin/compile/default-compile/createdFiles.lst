@@ -1,0 +1,11 @@
+com\mycompany\DWVersionSample\api\v2\serviceInterface\OrderServiceV2.class
+com\mycompany\DWVersionSample\api\v2\serviceImpl\OrderServiceV2Impl.class
+com\mycompany\DWVersionSample\service\App.class
+com\mycompany\DWVersionSample\service\OrderV2_1.class
+com\mycompany\DWVersionSample\service\OrderV2.class
+com\mycompany\DWVersionSample\api\v1\serviceImpl\OrderServiceV1Impl.class
+com\mycompany\DWVersionSample\api\v1\serviceInterface\OrderServiceV1.class
+com\mycompany\DWVersionSample\service\OrderService.class
+com\mycompany\DWVersionSample\service\config.class
+com\mycompany\DWVersionSample\service\OrderV1.class
+com\mycompany\DWVersionSample\service\OrderV1_1.class
