@@ -18,7 +18,10 @@ public interface OrderServiceV1 {
 	@Path("/{param}")
 	public Response getOrder(@PathParam("param") String name, @HeaderParam("Accept") String accept);
 	
+	
 	@POST
+	@Consumes("application/json")
+	@Produces("application/json")
 	public Response createOrder();
 
 }
